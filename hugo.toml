@@ -1,4 +1,4 @@
-baseurl = "mathom.netlify.app"
+baseurl = ""
 DefaultContentLanguage = "pl"
 title = "Mathom"
 # Using theme as git submodule
