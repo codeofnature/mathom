@@ -1,6 +1,6 @@
 baseurl = ""
 DefaultContentLanguage = "pl"
-title = "Mathom"
+title = "Field Journal"
 # Using theme as git submodule
 theme = "beautifulhugo"
 # Or when using theme as hugo module
